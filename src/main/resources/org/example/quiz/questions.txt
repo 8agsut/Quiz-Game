@@ -1,0 +1,20 @@
+When was the first telephone invented?|1865|1876|1893|1901|B
+Who is the founder of the computer?|Alan Turing|Charles Babbage|John von Neumann|Ada Lovelace|B
+What was Java originally called?|Oak|Green|Lattee|C++|A
+What is the only organ in the human body capable of completely regenerating itself?|The Lungs|The Heart|The Kidneys|The Liver|D
+What is the only type of bird capable of flying backward?|Hummingbird|Peregrine Falcon|Eagles|Parrot|A
+What is the name of the largest moon in our solar system?|Titan|Europa|Ganymede|Triton|C
+Which type of memory is volatile and loses its data when the computer is powered off?|ROM|HDD|RAM|SSD|C
+Which of the following is the largest ocean on Earth?|Atlantic Ocean|Indian Ocean|Arctic Ocean|Pacific Ocean|D
+What is the product of 15 and 12?|150|160|180|190|C
+Solve for x in the equation: 2x + 5 = 15|2|5|7|10|B
+What is the primary purpose of a Compiler?|Execute Code|Debug Code|Translate Code|Store Code|C
+If you have a sequence 2, 4, 8, 16, ..., what is the next number?|20|24|32|64|C
+What is the standard format for representing colors on the web?|Hex Code|Decimal|Integer|Boolean|A
+Which country is known as the "Land of the Rising Sun"?|China|Thailand|Japan|South Korea|C
+How many continents are there on Earth?|5|6|7|8|C
+What is the capital city of France?|Berlin|Madrid|Paris|Rome|C
+How many bones are there in an adult human body?|186|206|256|306|B
+What does the "IP" in IP address stand for?|Internal Protocol|Internet Protocol|Input Port|Integrated Program|B
+What is the result of 15 x 4 + 10?|50|60|70|80|C
+Which logic gate outputs '1' only if both inputs are '1'?|OR|AND|NOT|XOR|B

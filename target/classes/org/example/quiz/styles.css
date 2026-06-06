@@ -1,0 +1,16 @@
+.root {
+    -fx-background-image: url("images/quiz_background.jpg");
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center center;
+}
+
+.correct{
+    -fx-background-color: LIME;
+    -fx-text-fill: black;
+}
+
+.wrong {
+    -fx-background-color: #ff6666;
+    -fx-text-fill: white;
+}
